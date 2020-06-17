@@ -1,0 +1,22 @@
+html {
+    position: relative;
+}
+
+body {
+	margin-bottom: 120px;
+    margin-top: 25px;
+    background-image: url(../img/leaves.png);
+}
+
+.container.menu {
+    position: relative;
+    color: white;
+    font-weight: bold;
+    padding-top: 80px;
+}
+
+.container.menu .nav-item a:hover {
+    font-style: oblique;
+    color: white;
+    font-size: 20px;
+}
